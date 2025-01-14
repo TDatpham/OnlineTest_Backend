@@ -2,7 +2,7 @@
 
 ### It is Springboot Application with Angular Frontend
 ## It is an Online Exam Application. 
-- It is Backend Part, for Fronted Part see url: https://github.com/swapnilbamble1438/ExamPortalAngularGUI
+- It is Backend Part, for Fronted Part see url: [https://github.com/swapnilbamble1438/ExamPortalAngularGUI](https://github.com/TDatpham/OnlineTest_Frontend)
 
   ### Application Features
  - Admin can create  Quizzes with Categories,containing Questions based on their Specific Quiz Type.
